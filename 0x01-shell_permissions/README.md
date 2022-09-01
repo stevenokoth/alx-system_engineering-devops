@@ -8,4 +8,5 @@
 7-everybody: Script that adds execute permission to owner, group owner and other users to the file hello.
 8-James_Bond: Script that gives other users all permissions and none to the owner and group user.
 9-John_Doe: Script that gives -rwxr-x-wx permissions.
- 
+10-mirror_permissions:Script that sets the mode of the file hello the same as olleh’s mode. 
+
